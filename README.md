@@ -3,11 +3,11 @@ Description: This project uses the KMeans clustering algorithm to cluster points
 
 ## Libraries:
 
-*`scipy`
-*`numpy`
-*`matplotlib`
-*`sklearn`
-*`Usage:`
+* `scipy`
+* `numpy`
+* `matplotlib`
+* `sklearn`
+* `Usage:`
 
 ## Installation
 ### Clone the repository:
